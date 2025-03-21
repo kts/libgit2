@@ -1,5 +1,8 @@
 libgit2 - the Git linkable library
 ==================================
+
+Edit for swift/ios work.
+
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/9609/badge)](https://www.bestpractices.dev/projects/9609)
 
 | Build Status | |
