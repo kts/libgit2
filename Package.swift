@@ -13,6 +13,6 @@ let package = Package(
   targets: [
     .target(
       name: "libgit2",
-      path: ".",
+      path: "."
     )
   ])
